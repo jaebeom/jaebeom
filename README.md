@@ -1,6 +1,6 @@
 <div align="center">
 
-# JAEBEOM LIM · 임재범
+# JAE
 
 <sub><b>LANGUAGES</b></sub><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
